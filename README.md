@@ -35,5 +35,5 @@ API สำหรับจัดการผู้ใช้ การอัปโ
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourname/hackathon-api.git
-   cd hackathon-api
+  git clone https://github.com/Kamonsakgo/Botnoi_hackathon.git
+

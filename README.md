@@ -34,6 +34,8 @@ API สำหรับจัดการผู้ใช้ การอัปโ
 ## 🛠 วิธีติดตั้งและใช้งาน
 
 1. **Clone Repository**
-   ```bash
-  git clone https://github.com/Kamonsakgo/Botnoi_hackathon.git
+
+```bash
+git clone https://github.com/Kamonsakgo/Botnoi_hackathon.git
+cd Botnoi_hackathon
 
